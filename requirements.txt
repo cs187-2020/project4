@@ -1,0 +1,6 @@
+dateparser
+nltk
+cryptography
+torchtext
+mysql-connector
+otter-grader == 1.0.0

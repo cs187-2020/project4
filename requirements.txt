@@ -1,6 +1,8 @@
-dateparser
 nltk
 cryptography
-torchtext
-mysql-connector
+torchtext == 0.7.0
+torch
+func_timeout
 otter-grader == 1.0.0
+git+https://github.com/huggingface/transformers.git
+ipywidgets

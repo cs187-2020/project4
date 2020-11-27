@@ -1,8 +1,7 @@
 nltk
 cryptography
-torchtext == 0.7.0
+torchtext
 torch
 func_timeout
 otter-grader == 1.0.0
 git+https://github.com/huggingface/transformers.git
-ipywidgets
